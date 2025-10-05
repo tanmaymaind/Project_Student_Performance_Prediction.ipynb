@@ -15,7 +15,6 @@ This project addresses the challenge of identifying at-risk students by building
 1.  **Regression:** Predicting a student's final numeric grade.
 2.  **Classification:** Predicting whether a student will pass or fail.
 
-![Animated GIF of a neural network learning](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBkMGwzY3JzY2Z4cnA4a3R2MWI0bHh5bnd2cjN6cnJ2cGRoc2F3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2pr3M2Vib16w/giphy.gif)
 
 ### ✨ Key Features
 
